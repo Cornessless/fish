@@ -40,17 +40,17 @@
 
 ## 这是我！
 
-bilibili: [@Cornessless](https://bilibili.com)
+bilibili: [@Cornessless](https://space.bilibili.com/1046114622)
 
-QQ: [@Cornessless](https://) 1145141919810
+QQ: [@Cornessless](https://user.qzone.qq.com/1580164570/) 1580164570
 
-洛谷: [@Cornessless](https://luogu.com.cn/user)
+洛谷: [@Cornessless](https://www.luogu.com.cn/user/1174513)
 
-Atcoder: [@Cornessless](https://atcoder.jp/)
+Atcoder: [@Cornessless](https://atcoder.jp/users/Cornessless)
 
-Codeforces: [@Cornessless](https://codeforces.com)
+Codeforces: [@Cornessless](https://codeforces.com/profile/Cornessless)
 
-牛客: [@Cornessless](https://nowcoder.com)
+牛客: [@Cornessless](https://ac.nowcoder.com/acm/contest/profile/266974319)
 
-Github: [就是这里！](https://github.com)
+Github: [就是这里！](https://github.com/Cornessless/fish)
 
